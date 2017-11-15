@@ -29,7 +29,7 @@ else {
 
     } 
     else{
-        echo "<h1>No hemos encontrado resultados, intente de nuevo en hacer una búsqueda</h1>";
+        echo "<h1>No hemos encontrado resultados, modifica la busqueda o intentalo mas tarde!</h1>";
     }
 
 
